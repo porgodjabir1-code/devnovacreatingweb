@@ -1,0 +1,17 @@
+{
+  "name": "DEV NOVA CREATOR",
+  "short_name": "CREATOR WEB",
+  "description": "Création de sites web modernes au Burkina Faso",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050d1a",
+  "theme_color": "#1a6fc4",
+  "icons": [
+    {
+      "src": "https://files.catbox.moe/npn9x9.jpeg",
+      "src": "https://files.catbox.moe/wnkenl.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
